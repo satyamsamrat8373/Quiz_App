@@ -26,7 +26,7 @@ ReactJS: Frontend framework for building the user interface.
 State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
 
-![Screenshot 2025-01-06 123603](https://github.com/user-attachments/assets/b16b24cc-57b1-442c-a2fb-e4c658881d4f)
+![Screenshot 2025-01-06 124008](https://github.com/user-attachments/assets/f954c4fb-4235-44fc-b58a-a008ba94c9d3)
 
 📋 How to Run the Project
 Clone the repository:
